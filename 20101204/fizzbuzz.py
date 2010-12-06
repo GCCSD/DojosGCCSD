@@ -1,6 +1,7 @@
 from unittest import TestCase
 
 __author__ = 'GCCSD'
+__authors__ = ['Apu', 'InFog', 'Paulo', 'Sigano']
 
 class FizzBuzz(object):
     def execute(self, numero):
