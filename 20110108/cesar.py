@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 
+__authors__ = (
+    "Apu",
+    "Sigano",
+    "InFog",
+    "Paulo",
+    "Doug",
+    "ExHora"
+)
+
 import string
 
 class Cesar(object): 
